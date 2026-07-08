@@ -1,0 +1,5 @@
+friends=("parva","rushiraj","priyanshu")
+iterator=iter(friends)
+print(next(iterator))
+print(next(iterator))
+print(next(iterator))
