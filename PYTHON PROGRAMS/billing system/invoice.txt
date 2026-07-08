@@ -1,0 +1,11 @@
+--------------------------------------------------INVOICE--------------------------------------------------
+Purchase Time : 2026-03-10 16:35:18.662321
+
+Products Purchased:
+CHOCOLATE     Rs.50
+BANANA        Rs.50
+CHIPS         Rs.10
+COLD DRINKS   Rs.20
+MILK          Rs.25
+
+Total Amount : Rs.155
